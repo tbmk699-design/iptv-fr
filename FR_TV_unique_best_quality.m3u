@@ -1,0 +1,619 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué Pasó Ayer? Parte II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzaVnS19yDTkkGZRlf89sND75i7.jpg" group-title="VOD-COMEDIA",¿Qué Pasó Ayer? Parte II
+http://tv.zapping.life:8080/movie/Juniorprdr/Pedroqui/160295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="María de Nazaret parte1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fxnIpMoyK8JFu4tMiQ6BbH1KB1.jpg" group-title="VOD-RELIGIOSAS",María de Nazaret parte1
+http://tv.zapping.life:8080/movie/Juniorprdr/Pedroqui/12992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canal 74 San Antonio" tvg-logo="https://i.imgur.com/WRYsbjX.png" group-title="CHILE [GEO BLOQUEO]",Canal 74 San Antonio
+http://tv.zapping.life:8080/Juniorprdr/Pedroqui/10134
+#EXTINF:-1 tvg-id="" tvg-name="Canal Chilote" tvg-logo="https://i.imgur.com/mdYIKyt.png" group-title="CHILE [GEO BLOQUEO]",Canal Chilote
+http://tv.zapping.life:8080/Juniorprdr/Pedroqui/10136
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Canal 6 CDMX
+http://tv.zapping.life:8080/Juniorprdr/Pedroqui/114788
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="MEXICO-LOCAL",MEX-Canal 5
+http://tv.zapping.life:8080/Juniorprdr/Pedroqui/114854
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 17:00 Portland State vs.Idaho State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",NCAA Mens Basketball 17:00 Portland State vs.Idaho State
+http://tv.zapping.life:8080/Juniorprdr/Pedroqui/164296
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E01" tvg-logo="http://tv.proyectox.vip:8080/images/41952d61e10ffab8ba82a090d515e9fc.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E02" tvg-logo="http://tv.proyectox.vip:8080/images/48d6700b31b24acaddc05ff847a25067.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E03" tvg-logo="http://tv.proyectox.vip:8080/images/ac1832cedef4bc36d72a8f2590d1353a.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E04" tvg-logo="http://tv.proyectox.vip:8080/images/1d456cff8e206e93670b46de9d45e7ac.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E05" tvg-logo="http://tv.proyectox.vip:8080/images/fd1a5de35cde6dfbd386daa8ec9fac70.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E06" tvg-logo="http://tv.proyectox.vip:8080/images/97daa1d69118a3c5b893d3041b130c50.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E07" tvg-logo="http://tv.proyectox.vip:8080/images/5719161b523124e7e01ed4ae1be0f9b0.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S01 E08" tvg-logo="http://tv.proyectox.vip:8080/images/ea01b834cb376b4de8c32a376fe4e7a8.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S01 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E01" tvg-logo="http://tv.proyectox.vip:8080/images/3c74ac1f7539b8be8e6d18289794f4a1.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E02" tvg-logo="http://tv.proyectox.vip:8080/images/3c74ac1f7539b8be8e6d18289794f4a1.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E03" tvg-logo="http://tv.proyectox.vip:8080/images/65296838a66c0a0f24bd9d80ed19b06a.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E04" tvg-logo="http://tv.proyectox.vip:8080/images/65296838a66c0a0f24bd9d80ed19b06a.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E05" tvg-logo="http://tv.proyectox.vip:8080/images/9a6c64897f14ce3d5d7dc970400ffc63.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E06" tvg-logo="http://tv.proyectox.vip:8080/images/9a6c64897f14ce3d5d7dc970400ffc63.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E07" tvg-logo="http://tv.proyectox.vip:8080/images/7764a829b34a91d3d2369ac821e8b45d.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E08" tvg-logo="http://tv.proyectox.vip:8080/images/7764a829b34a91d3d2369ac821e8b45d.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E09" tvg-logo="http://tv.proyectox.vip:8080/images/13df885143d2a271255a458132327957.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E09
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E10" tvg-logo="http://tv.proyectox.vip:8080/images/13df885143d2a271255a458132327957.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E10
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E11" tvg-logo="http://tv.proyectox.vip:8080/images/de3d2abed9b6e5782d006a56d1f9a5d6.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E11
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E12" tvg-logo="http://tv.proyectox.vip:8080/images/de3d2abed9b6e5782d006a56d1f9a5d6.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E12
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E13" tvg-logo="http://tv.proyectox.vip:8080/images/96c1edea490fe7e916c7bffdc52d509a.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E13
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E14" tvg-logo="http://tv.proyectox.vip:8080/images/96c1edea490fe7e916c7bffdc52d509a.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E14
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E15" tvg-logo="http://tv.proyectox.vip:8080/images/c4ad8e6b4c6c45cc6f7b5c1c19a47234.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E15
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E16" tvg-logo="http://tv.proyectox.vip:8080/images/c4ad8e6b4c6c45cc6f7b5c1c19a47234.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E16
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E17" tvg-logo="http://tv.proyectox.vip:8080/images/950a153df067a831478d9b4c6f088cbb.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E17
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E18" tvg-logo="http://tv.proyectox.vip:8080/images/950a153df067a831478d9b4c6f088cbb.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E18
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E19" tvg-logo="http://tv.proyectox.vip:8080/images/4209ef9c1f981433fbafaa404ac58050.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E19
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/16293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Carter S02 E20" tvg-logo="http://tv.proyectox.vip:8080/images/4209ef9c1f981433fbafaa404ac58050.jpg" group-title="SERIES-UNIVERSO MARVEL",Agente Carter S02 E20
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/17098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zA66bMIGOhuJMZprK5aYZOQWjX8.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4dpkujIZuw8y1dSES4YRMcsZhf.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L6KDAJOpZQk3Q6PiPCXWssj1cg.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArE9hPam1ZV3wQUf1Mrak13x3Cg.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79CZsCxT72ISEimy6P5PwYN5vCu.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BcWtavJhjVflOMonl7fyhHAGuc.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgaVh8Ck7mmDl99vfgSu6FK5MAL.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiR9U4s4bp0nRQf6PETCOix27sC.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nX8HcCTEmnX6oQtFG2JMO5i4qZ.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E09
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNjfsyx8oO9RTxmLjRxuOMfpa6i.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E10
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGvU2jv3xeWIVLPMbPN4puV5520.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E11
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43o46ABsIh9wcedXghFENHzr8S7.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E12
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhJdOzIentmuT07Ze0arKTh4hio.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E13
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNmcWD2DuBj3zSaxa4SFIywQOHe.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E14
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpN6hc9sm2zIdLUx7BO3kyPPvIG.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E15
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KtZ3WlJfMcTfSivyLzxLZvLpQH.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E16
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X6OfUWRqtrVhORyscNn01AMuHD.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E17
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gztfcsJXO4oTuY0ppzLojc5Xt5U.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E18
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0fT3HCl0vF3jI7fxeGjLOkpnPs.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E19
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GHZgZIuFMXMhSwowqKfRHrWDG4.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E20
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goIXpN8lCU903SqDr8fw0Y5VP2B.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E21
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UnyTw3kErUuNE4Ab2GCsiLuMEl.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E22
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqW2JnOCeB4aFtcwvxOsK4avkbP.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E23
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjhHRymG7Kd0Km4GlC7GBS4FJ45.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E24
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJWkhKnZcR3Q7IgeoRXECy2Ti35.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E25
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MpaNdbxLTITf2UN6N5gzDaO2wA.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E26
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekpUAbmyFV4c9XKI8ABIvS7p4eK.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E27
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFcBaEqgmgKJUaJ5nQg4Yxw0vuq.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E28
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rRjQOBTZDdyjmVRPw9kA79BFj0.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E29
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vmnDkE9u1bS5hN4LBQ945kjeT.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E30
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlkDfhfieZijFOqRHr93sNw3pqV.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E31
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pBUVFC3hOeS4O93aCtUJRIT727.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E32
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIoRMFOskCgQBs7W5YfRu8Py6ph.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E33
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SoJQOECvhdyPj2vBraufANJGec.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E34
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajZQKNcMeTHHcQpy54k3HDT8ywi.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E35
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPowx9bnvVbSMSs2AydJDISK0Fw.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E36
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSpYHdtFHvR6cBNPALu5hVdtupp.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E37
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p1qWSrrpkNnrvWDIhTFEEHXXmP.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E38
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/natw1VsE1u1gC5odimRe533T0pb.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E39
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMsAOFUyqvnA8j5hgab2eQIfmRu.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E40
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79dWzlNcTJL1d6FuUGw9r0bwvxb.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E41
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jb6Y2x10ibT2E5zfeDLjwnDuZU.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E42
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27MVWru9L6yTDLMGoe3hVA7ix0h.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E43
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjMlGvG7SblVHB3vCebsqB9SPKy.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E44
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTshuMG2H9cyzcBbbwNfcrkbmlQ.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E45
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRjKILRxr60zDMd3mNo6dhr7V83.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E46
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCNDq8qqxPkGtUPOFUE5AUFly1v.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E47
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daHlVWlwuQCdYViD6hfjRPeDXrU.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E48
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weTVRD3p8a429WIGtVpqsmiKgAN.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E49
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovhO8dlMO6YcP56oyXkSLA9hyVP.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E50
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca15ShkBzx8v4LsrFUGG4P6GW79.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E51
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m8vYKVl08jvvH6ZSnL9WA5kizY.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E52
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCCw8GQJqga1sXK5ZU2G47TsQHM.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E53
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLNvvQQqefmiZwIyJXFCw2GsyJC.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E54
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rAf8wd3j6HVXtXdfpPRick1k3w.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E55
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awhenQNmHvGrWPZOrJtwFFmumG4.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E56
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpE67SoTvOYp47WMwXLromCHt0E.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E57
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejEk6UjKY0w5GIRsEE61cwFQCbD.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E58
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyHrFMW2A8CDmcZmfgxEsUzcP3i.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E59
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cartel de los sapos: El origen S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JafaGmrW7TCXiX1lMrHxKQqsMq.jpg" group-title="SERIES-NARCO",El cartel de los sapos: El origen S01 E60
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/45800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePffGlkQPy5IeYXSd5Yd7tfm0EI.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePffGlkQPy5IeYXSd5Yd7tfm0EI.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePffGlkQPy5IeYXSd5Yd7tfm0EI.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePffGlkQPy5IeYXSd5Yd7tfm0EI.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oklGyU1TtnUwXdLlkEnP85ZpVWO.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oklGyU1TtnUwXdLlkEnP85ZpVWO.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oklGyU1TtnUwXdLlkEnP85ZpVWO.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oklGyU1TtnUwXdLlkEnP85ZpVWO.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oklGyU1TtnUwXdLlkEnP85ZpVWO.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E09
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oklGyU1TtnUwXdLlkEnP85ZpVWO.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E10
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E11
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E12
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E13
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E14
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E15
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E16
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E17
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E18
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E19
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E20
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E21
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E22
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E23
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E24
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E25
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E26
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E27
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E28
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E29
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E30
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E31
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E32
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E33
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E34
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E35
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E36
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E37
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E38
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E39
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E40
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E41
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E42
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E43
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E44
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E45
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E46
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E47
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E48
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E49
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E50
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E51
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E52
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E53
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E54
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E55
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E56
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E57
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E58
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E59
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E60
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E61
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E62
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E63
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E64
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E65
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E66
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E67
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E68
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E69
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E70
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E71
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E72
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E73
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E74
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E75
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E76
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E77
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E78
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E79
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E80
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E81
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E82
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E83
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E84
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E85
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E86
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E87
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E88
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E89
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E90
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E91
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E92
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E93
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E94
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarte es mi Pecado S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0qAST2GGUljbyfTK8u0S4RxvB.jpg" group-title="NOVELAS-MEXICANAS",Amarte es mi Pecado S01 E95
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/48935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/twTDwoTvL1wR2XsV3qXhVbMootS.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8i2Ygpj0BtaJzxm5Cqqm5mXIudT.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/xRK7vEgctFVcNyFITZSj9lU1iUu.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8BeJviaAojwWvlFjgPuTgJbPoKw.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rOLlRKPxpSM4k8rfF7UoQbcfTLl.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/i829ORTVds2nGSGyuEaEYqC9Cfm.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bvbaTwDlBYiscdqVdY0GuVQR8du.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martes de terror extremo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/30HWX8g8rCj22zdPnQU124AU8rq.jpg" group-title="SERIES-NETFLIX",Martes de terror extremo S01 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/120427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E09
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E10
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E11
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E12
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E13
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E14
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E15
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E16
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E17
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E18
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E19
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E20
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E21
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E22
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E23
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E24
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E25
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E26
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E27
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E28
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E29
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E30
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E31
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E32
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E33
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E34
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E35
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E36
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E37
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E38
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E39
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E40
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E41
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E42
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E43
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E44
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E45
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E46
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E47
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E48
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E49
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E50
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E51
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E52
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E53
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E54
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E55
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E56
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S01 E57
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E07
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E08
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E09
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E10
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E11
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E12
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E13
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E14
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E15
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E16
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E17
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E18
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E19
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E20
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E21
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E22
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E23
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E24
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E25
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E26
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E27
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E28
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E29
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E30
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E31
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E32
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E33
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E34
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E35
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E36
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E37
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E38
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E39
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E40
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E41
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E42
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E43
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E44
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E45
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E46
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E47
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drug Wars: The Cocaine Cartel S02 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9bEk1B2V4UkNKHZPxFORqXe5aQ.jpg" group-title="SERIES-NARCO",Drug Wars: The Cocaine Cartel S02 E48
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/122229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bellas artes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ptbEANzVyZp72nnPXCWJ4X2KqH9.jpg" group-title="SERIES-DISNEY",Bellas artes S01 E01
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/129425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bellas artes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/jdnpRSyeIW93D41EEzVbUQNOOz3.jpg" group-title="SERIES-DISNEY",Bellas artes S01 E02
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/129426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bellas artes S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1uSTnmlrtOVmQCskSY1ThR6M3vG.jpg" group-title="SERIES-DISNEY",Bellas artes S01 E03
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/129427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bellas artes S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wY79t8kromNg8tX7UwGmEkTNiib.jpg" group-title="SERIES-DISNEY",Bellas artes S01 E04
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/129428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bellas artes S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ii2KXpeYcdiHiHIsI5mj0KgR2j3.jpg" group-title="SERIES-DISNEY",Bellas artes S01 E05
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/129429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bellas artes S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/g28UuS0LcyuUPa9hshZYrRIPLpZ.jpg" group-title="SERIES-DISNEY",Bellas artes S01 E06
+http://tv.zapping.life:8080/series/Juniorprdr/Pedroqui/129430.mkv
